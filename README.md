@@ -32,7 +32,16 @@ The following additional features are implemented:
 [ ] List anything else that you can get done to improve the app functionality!
 
 **Video Walkthrough**
-https://www.loom.com/share/fc0f1db35ff34087b8254457539a4f95?sid=8a42ecfd-701a-4725-a418-ae5fd8bd80e5
+<div>
+    <a href="https://www.loom.com/share/fc0f1db35ff34087b8254457539a4f95">
+    </a>
+    <a href="https://www.loom.com/share/fc0f1db35ff34087b8254457539a4f95">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fc0f1db35ff34087b8254457539a4f95-with-play.gif">
+    </a>
+  </div>
+
+
+
 **Notes**
 
 Understanding how to properly use stack view, setting constraints and using navigation controller. 
