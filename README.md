@@ -1,7 +1,6 @@
-# MyStory
 
 
-# Project 1 - My Story 
+## Project 1 - My Story 
 
 Submitted by: Aneika Stewart
 
@@ -11,7 +10,7 @@ Time spent: 11 hours spent in total
 
 Required Features
 
-**The following required functionality is completed:**
+##The following required functionality is completed:
 
 ✅Users are able to see a customized app icon and launch screen
 ✅Your app should work for any screen size and orientation using AutoLayout constraints
