@@ -25,9 +25,11 @@ Time spent: 11 hours spent in total
 **The following optional features are implemented:**
 
 ✅ Improve and customize the user interface through styling and coloring
+
 [ ] Allow users to scroll when context items are off-screen (table view implementation)
 
-The following additional features are implemented:
+
+**The following additional features are implemented:**
 
 [ ] List anything else that you can get done to improve the app functionality!
 
